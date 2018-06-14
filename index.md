@@ -19,6 +19,7 @@ choco feature enable -n=allowGlobalConfirmation
 ```
 
 * Install [packages](https://chocolatey.org/packages)
+
 ```powershell
 choco install package-name
 ```
