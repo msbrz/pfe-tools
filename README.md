@@ -9,7 +9,7 @@ Tools and resources used by PFEs
 * [PerfView](https://github.com/microsoft/perfview/releases)
 * [DebugDiag](https://www.microsoft.com/en-us/download/details.aspx?id=49924)
 * [SysInternals](https://download.sysinternals.com/files/SysinternalsSuite.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/)
-  * [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procexp)
+  * [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
   * [ProcMon](https://download.sysinternals.com/files/ProcMon.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
   * [ProcDump](https://download.sysinternals.com/files/ProcDump.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
   * [TCPView](https://download.sysinternals.com/files/TCPView.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
@@ -34,6 +34,5 @@ Tools and resources used by PFEs
     ```powershell
     choco install sysinternals
     choco install cmder
-    choco install vscode
     choco install vscode
     ```
