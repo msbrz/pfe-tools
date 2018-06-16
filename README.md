@@ -4,48 +4,16 @@ Tools and resources used by PFEs
 
 <https://aka.ms/pfe/tools>
 
-## PerfView
+## Downloads
 
-**PerfView.exe** and **PerfView64.exe**.
-
-Download: <https://github.com/microsoft/perfview/releases>
-
-## Sysinternals
-
-* About: <https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite>
-* Download: <https://download.sysinternals.com/files/SysinternalsSuite.zip>
-
-```powershell
-choco install sysinternals
-```
-
-### ProcessExplorer
-
-(https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-
-    * Download: https://download.sysinternals.com/files/ProcessExplorer.zip
-
-### [Procmon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-
-    https://download.sysinternals.com/files/ProcessMonitor.zip
-
-### [Procdump](https://docs.microsoft.com/en-us/sysinternals/downloads/Procdump)
-
-    https://download.sysinternals.com/files/Procdump.zip
-
-### [Procdump for Linux](https://github.com/Microsoft/ProcDump-for-Linux)
-
-    https://download.sysinternals.com/files/Procdump.zip
-
-    https://github.com/msbrz/procdump-docker
-
-### [TCP View](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
-
-    https://download.sysinternals.com/files/TCPView.zip
-
-## [Log Parser Studio](https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765)
-
-## [DebugDiag](https://www.microsoft.com/en-us/download/details.aspx?id=49924)
+* [PerfView](https://github.com/microsoft/perfview/releases)
+* [DebugDiag](https://www.microsoft.com/en-us/download/details.aspx?id=49924)
+* [SysInternals](https://download.sysinternals.com/files/SysinternalsSuite.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/)
+  * [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procexp)
+  * [ProcMon](https://download.sysinternals.com/files/ProcMon.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+  * [ProcDump](https://download.sysinternals.com/files/ProcDump.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
+  * [TCPView](https://download.sysinternals.com/files/TCPView.zip) - [Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
+* [Log Parser Studio](https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765)
 
 ## [Chocolatey](https://chocolatey.org/)
 
@@ -64,5 +32,8 @@ choco install sysinternals
 * Install [packages](https://chocolatey.org/packages)
 
     ```powershell
-    choco install package-name
+    choco install sysinternals
+    choco install cmder
+    choco install vscode
+    choco install vscode
     ```
