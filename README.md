@@ -1,23 +1,29 @@
 # PFE Tools
+
 Tools and resources used by PFEs
 
-https://aka.ms/pfe/tools
+<https://aka.ms/pfe/tools>
 
-## [PerfView](https://github.com/microsoft/perfview/releases)
+## PerfView
 
-Download **PerfView.exe** and **PerfView64.exe**.
+**PerfView.exe** and **PerfView64.exe**.
 
-## [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+Download: <https://github.com/microsoft/perfview/releases>
 
-Download: https://download.sysinternals.com/files/SysinternalsSuite.zip
+## Sysinternals
+
+* About: <https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite>
+* Download: <https://download.sysinternals.com/files/SysinternalsSuite.zip>
 
 ```powershell
 choco install sysinternals
 ```
 
-### [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+### ProcessExplorer
 
-    https://download.sysinternals.com/files/ProcessExplorer.zip
+(https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
+    * Download: https://download.sysinternals.com/files/ProcessExplorer.zip
 
 ### [Procmon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 
