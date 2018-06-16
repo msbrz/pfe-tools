@@ -1,5 +1,1 @@
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: dirt
-title: "PFE Tools"
-search: true
-search_full_content: true
+theme: jekyll-theme-dinky
